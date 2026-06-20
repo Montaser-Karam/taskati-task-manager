@@ -2,7 +2,7 @@
 
 Taskati is a modern task management application built with Flutter. It allows users to create tasks, track completed tasks, and personalize their profile image with a clean and interactive interface.
 
-## ✨ Features
+##  Features
 
 * Add and delete tasks.
 * Mark tasks as completed.
@@ -22,7 +22,7 @@ Taskati is a modern task management application built with Flutter. It allows us
 
 ![Task Screen](assets/images/task_screen.png)
 
-## 🛠️ Built With
+##  Built With
 
 * Flutter
 * Dart
@@ -32,14 +32,14 @@ Taskati is a modern task management application built with Flutter. It allows us
 * Lottie
 * Intl
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 lib/
  ├── main.dart
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone the repository
 
@@ -65,7 +65,7 @@ flutter pub get
 flutter run
 ```
 
-## 👨‍💻 Author
+##  Author
 
 **Montaser Karam**
 
